@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="spi" Register="88" Lut="408" T_Register="123(88)" T_Lut="481(408)">
+    <SubModule name="init_rom" Lut="6" T_Lut="6(6)"/>
+    <SubModule name="busy_wait_inst" Register="35" Lut="67" T_Register="35(35)" T_Lut="67(67)"/>
+</Module>

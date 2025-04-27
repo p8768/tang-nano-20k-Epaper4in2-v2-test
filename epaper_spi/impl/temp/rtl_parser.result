@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "C:/tm1638-verilog-master/Epaper_module_test/epaper_spi_3/src/spi.v",
+  "InstLine" : 1,
+  "InstName" : "spi",
+  "ModuleFile" : "C:/tm1638-verilog-master/Epaper_module_test/epaper_spi_3/src/spi.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "spi",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/tm1638-verilog-master/Epaper_module_test/epaper_spi_3/src/spi.v",
+    "InstLine" : 41,
+    "InstName" : "init_rom",
+    "ModuleFile" : "C:/tm1638-verilog-master/Epaper_module_test/epaper_spi_3/src/init.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "init"
+   },
+   {
+    "InstFile" : "C:/tm1638-verilog-master/Epaper_module_test/epaper_spi_3/src/spi.v",
+    "InstLine" : 90,
+    "InstName" : "busy_wait_inst",
+    "ModuleFile" : "C:/tm1638-verilog-master/Epaper_module_test/epaper_spi_3/src/busy_wait.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "busy_wait"
+   }
+  ]
+ }
+]
